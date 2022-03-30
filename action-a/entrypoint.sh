@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "echo Hello world my name is $"Sean Clayton"
+sh -c "echo Hello world my name is $Sean Clayton"
